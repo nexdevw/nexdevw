@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Learning+Machine+Learning;Building+AI+Projects;Python+%7C+Data+Science;Always+Curious+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Beginner+Machine+Learning+Engineer;Learning+AI+and+Data+Science;Python+%7C+Scikit-Learn;Building+ML+Projects+🤖" />
 </p>
 
 ---
